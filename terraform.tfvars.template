@@ -1,0 +1,15 @@
+
+company_name = "ming"
+
+#################
+# AWS Credential
+#################
+
+aws_profile = "default"
+AWS_REGION  = "us-east-2"
+
+#################
+# tags
+#################
+
+resource_tag = "DEV-TF-v1"
